@@ -17,7 +17,7 @@ Download latest RU version from Releases page, unpack the file and run Sm-Cleane
 
 ## Functions
 > [ 1 ] System diagnostics
-[ 2 ] Troubleshooting
+> [ 2 ] Troubleshooting
 [ 3 ] Windows optimization **[NOT REALESED]**
 [ 4 ] Real-time monitoring **[NOT REALESED]**
 [ 5 ] Exit
